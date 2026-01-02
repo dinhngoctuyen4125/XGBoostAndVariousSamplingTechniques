@@ -1,0 +1,36 @@
+KẾT QUẢ THỰC NGHIỆM XGBOOST + SAMPLING
+============================================================
+Ngưỡng phân lớp (Threshold): 0.65
+
+--- Undersampling ---
+Accuracy:  96.29 %
+Precision: 4.10 %
+Recall:    91.84 %
+F1 Score:  7.85 %
+
+----------------------------------------
+
+--- Oversampling ---
+Accuracy:  99.96 %
+Precision: 89.56 %
+Recall:    80.12 %
+F1 Score:  84.58 %
+
+----------------------------------------
+
+--- CTGAN ---
+Accuracy:  99.96 %
+Precision: 89.47 %
+Recall:    86.73 %
+F1 Score:  88.08 %
+
+----------------------------------------
+
+--- TVAE ---
+Accuracy:  99.96 %
+Precision: 90.11 %
+Recall:    83.67 %
+F1 Score:  86.77 %
+
+----------------------------------------
+
